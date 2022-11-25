@@ -1,0 +1,16 @@
+
+.navbar-dark {
+    background-color: #ff5975 !important;
+    margin-bottom: 30px !important;
+}
+.container a {
+    color: #fff !important;
+    font-weight: bold !important;
+}
+.container a:hover {
+    text-decoration: underline !important;
+    transition: all 1s;
+}
+.btn-success {
+    background-color: #ff5975 !important;
+}
